@@ -44,6 +44,17 @@ Styled front end to resemble a simple game.
 Allowed user login tracking.
 Realtime display of users vote tally.
 
+# Code
+Socket.io connection
+React components
 
 # Reflection and Next Steps
+
+#### Rose
 Making a live streaming voting app that a
+
+#### Bud
+We would like to continue building out further gamification for the App, adding different modes and mini games as time goes on.
+
+#### Thorn
+Choice of backend communication technologies and React-Router 
