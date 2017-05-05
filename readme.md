@@ -46,9 +46,11 @@ alt="DANK WIREFRAMES BALSAMIQ" width="1280" height="720" border="10" />
 
 ## Tech and Why
 
+MERN Stack + Socket.io
+
 #### Back-end:
 
-**Nodejs** application with **Mongoose**. Implemented **Socket.io** to have real time functionality between server and front end web client.
+**Nodejs** application with **Mongoose**, **Express**, and **MLab**. Implemented **Socket.io** to have real time functionality between server and front end web client.
 
 #### Front-end:
 
@@ -58,9 +60,6 @@ Built with **React**. Created mockups first and then split up application into d
 Front-end application that allowed for user to login and select a character. An action would be emitted which would be transferred to the database via socket.io. Upon choosing character, players are taken to a gamified screen where they can press a button to progress their sonic
 
 #### Features:
-Styled front end to resemble a simple game.
-Allowed user login tracking.
-Realtime display of users vote tally.
 
 Branded and styled login page.
 User-login for tracking and point accumulation.
@@ -77,7 +76,7 @@ React components
 ***
 
 #### Rose
-Making a live streaming voting app that a
+Making a live streaming voting app that connects individuals so we can unite in having fun.
 
 #### Bud
 We would like to continue building out further gamification for the App, adding different modes and mini games as time goes on.
