@@ -25,14 +25,14 @@ Johnny Banger is feeling down in life and needs a pick me up. Does he watch TV? 
 
 
 
-<img src="http://imgur.com/a/CHg3t"
+<img src="http://i.imgur.com/8xPO34T.jpg"
 alt="DANK WIREFRAMES BALSAMIQ" width="240" height="180" border="10" />
 
 
 Reference-style:
 ![alt text][logo]
 
-[logo]: http://imgur.com/a/CHg3t "Logo Title Text 2"
+[logo]: http://i.imgur.com/8xPO34T.jpg "Logo Title Text 2"
 
 
 
