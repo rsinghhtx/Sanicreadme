@@ -8,11 +8,15 @@ Andrew Chan
 for General Assembly WDI-10 2017
 
 
+
 # Problem
+***
 
 There is not enough joy in the world and we wanted to help the individuals in our class with mental health, and for assisting of escapism.
 
+
 # Process
+***
 
 ## User-Stories
 Johnny Banger is feeling down in life and needs a pick me up. Does he watch TV? Hang out with his friends? Or does he take a trip to Sanic Land?
@@ -41,11 +45,15 @@ Styled front end to resemble a simple game.
 Allowed user login tracking.
 Realtime display of users vote tally.
 
+
 # Code
+***
 Socket.io connection
 React components
 
+
 # Reflection and Next Steps
+***
 
 #### Rose
 Making a live streaming voting app that a
