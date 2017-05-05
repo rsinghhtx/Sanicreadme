@@ -24,7 +24,7 @@ Johnny Banger is feeling down in life and needs a pick me up. Does he watch TV? 
 Reference-style:
 ![alt text][logo]
 
-[logo]: https://files.slack.com/files-tmb/T0351JZQ0-F567LM1FS-70cb2c5e8b/img_20170428_174250_960.jpg "Logo Title Text 2"
+[logo]: http://imgur.com/a/CHg3t "Logo Title Text 2"
 
 ## Tech and Why
 
@@ -57,4 +57,4 @@ Making a live streaming voting app that a
 We would like to continue building out further gamification for the App, adding different modes and mini games as time goes on.
 
 #### Thorn
-Choice of backend communication technologies and React-Router 
+Choice of backend communication technologies and React-Router
