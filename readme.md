@@ -19,14 +19,14 @@ There is not enough joy in the world and we wanted to help the individuals in ou
 ***
 
 ## User-Stories
-Johnny Banger is feeling down in life and needs a pick me up. Does he watch TV? Hang out with his friends? Or does he take a trip to Sanic Land?
+Johnny Banger is feeling down in life and needs a pick me up. Does he watch TV? Hang out with his friends? Or does he take a trip to Sanic Surf?
 
 ## Wireframes
 
 
 
 <img src="http://imgur.com/a/CHg3t"
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
+alt="DANK WIREFRAMES BALSAMIQ" width="240" height="180" border="10" />
 
 
 
