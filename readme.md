@@ -28,16 +28,16 @@ Reference-style:
 
 ## Tech and Why
 
-#### Backend:
+#### Back-end:
 
-Nodejs application with Mongoose. Implemented Socket.io to have real time functionality between server and front end web client.
+**Nodejs** application with **Mongoose**. Implemented **Socket.io** to have real time functionality between server and front end web client.
 
-#### Frontend:
+#### Front-end:
 
-Built with React. Created mockups first and then split up application into different components for React. Authorization using Firebase.
+Built with **React**. Created mockups first and then split up application into different components for React. Authorization using **Firebase**.
 
 #### MVP:
-Frontend application that allowed for user to login and select a character. An action would be emitted which would be transferred to the database via socket.io. Upon choosing character, players are taken to a gamified screen where they can press a button to progress their sonic
+Front-end application that allowed for user to login and select a character. An action would be emitted which would be transferred to the database via socket.io. Upon choosing character, players are taken to a gamified screen where they can press a button to progress their sonic
 
 #### Features:
 Styled front end to resemble a simple game.
