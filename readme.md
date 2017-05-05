@@ -32,7 +32,7 @@ alt="DANK WIREFRAMES BALSAMIQ" width="480" height="360" border="10" />
 alt="DANK WIREFRAMES BALSAMIQ" width="480" height="360" border="10" />
 
 <img src="http://i.imgur.com/DRMYYn7.jpg"
-alt="DANK WIREFRAMES BALSAMIQ" width="480" height="360" border="10" />
+alt="DANK WIREFRAMES BALSAMIQ" width="1280" height="720" border="10" />
 
 
 
