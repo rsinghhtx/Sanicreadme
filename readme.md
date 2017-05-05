@@ -29,6 +29,12 @@ Johnny Banger is feeling down in life and needs a pick me up. Does he watch TV? 
 alt="DANK WIREFRAMES BALSAMIQ" width="240" height="180" border="10" />
 
 
+Reference-style:
+![alt text][logo]
+
+[logo]: http://imgur.com/a/CHg3t "Logo Title Text 2"
+
+
 
 
 
@@ -51,6 +57,10 @@ Front-end application that allowed for user to login and select a character. An 
 Styled front end to resemble a simple game.
 Allowed user login tracking.
 Realtime display of users vote tally.
+
+Branded and styled login page.
+User-login for tracking and point accumulation.
+Real-Time interaction and tallying of votes for up to date communication.
 
 
 # Code
