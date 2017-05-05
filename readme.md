@@ -19,12 +19,9 @@ Johnny Banger is feeling down in life and needs a pick me up. Does he watch TV? 
 
 ## Wireframes
 
+![Image of Wireframes](http://imgur.com/a/CHg3t)
 
 
-Reference-style:
-![alt text][logo]
-
-[logo]: http://imgur.com/a/CHg3t "Logo Title Text 2"
 
 ## Tech and Why
 
